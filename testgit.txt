@@ -1,2 +1,8 @@
 Initial Git test 
+<<<<<<< HEAD
 "Revised Main Branch Line" 
+=======
+"On Going Not Yet Ready" 
+"This line was combined from MAIN and NEW-BRANCH-TEST" 
+"Another change for status-checking" 
+>>>>>>> new-branch-test
