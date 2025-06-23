@@ -1,4 +1,4 @@
 Initial Git test 
 "On Going Not Yet Ready" 
-"This is from the new-branch-test branch" 
+"This line is from the NEW-BRANCH-TEST branch" 
 "Another change for status-checking" 
